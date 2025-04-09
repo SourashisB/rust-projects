@@ -1,0 +1,12 @@
+[package]
+name = "fourier-transform"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.31.1"
+egui = "0.31.1"
+egui_extras = "0.31.1"
+meval = "0.2"
+rustfft = "6.1"
+num-complex = "0.4"
